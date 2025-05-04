@@ -5,7 +5,7 @@ please check the branch called my-new-branch which is below the main branch
 
 # REACT-NOTES-APP using react.js
 
-The React-Notes-App is a lightweight, user-friendly web application built with React that allows users to create, manage, and set reminders for personal notes. It offers a clean UI and interactive features like dark mode, note deletion, and desktop notifications to enhance productivity and usability.
+The React-Notes-App is a lightweight, user-friendly web application built with React that allows users to create, manage, and set reminders for personal notes. It offers a clean UI and interactive features like dark mode, note deletion, and desktop notifications to enhance productivity and Useability.
 
 Key Features Explained
 *Add Notes
